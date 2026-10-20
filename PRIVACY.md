@@ -1,73 +1,69 @@
-# Privacy Policy — ExamPrep
+# Privacy Policy for ExamPrep
 
-**ExamPrep by YomTech** (Amanuel M.)  
-Version 1.2.1 · Effective date: 2026-10-20
+ExamPrep is made by **YomTech** (Amanuel M.).  
+Last updated: 20 October 2026
 
-## Summary
+## In short
 
-ExamPrep is a free Ethiopian entrance- and exit-exam practice product from YomTech. It is offered as an **Android (mobile) app**, a **web app** in the browser, and a **desktop app (in development)**. **Exam questions and tip models are designed to run on your device or in your browser tab** — not on a YomTech account server. The product does **not** require an account and does **not** include ads.
+ExamPrep helps you practise Ethiopian entrance and exit exams. You can use it as an Android app, in a web browser, or as a desktop app (in development). Questions and study tips are meant to run on your own phone, computer, or browser tab. We do not ask you to create an account, and the product does not show ads.
 
-## Platforms this policy covers
+## What this policy covers
 
-- **Mobile app (Android APK / store builds)**
-- **Web app** — browser edition hosted by YomTech (for example on Vercel or a custom domain)
-- **Desktop app (in development)** — Windows or Linux builds when YomTech ships them for the same product
+- **Mobile:** the Android app (APK or store builds)
+- **Web:** the ExamPrep site in your browser (for example on Vercel or a custom domain)
+- **Desktop (in development):** Windows or Linux builds when we ship them
 
-The same privacy rules apply on every platform unless a section below says otherwise.
+Unless we say otherwise below, the same rules apply on every platform.
 
-## Data stored on your device or browser
+## What stays on your device or browser
 
-Stored locally on your phone, computer, or browser — **not** on YomTech account servers:
+These things stay with you. We do not keep them on YomTech account servers:
 
-- App or site settings (theme, exam options, default tips mode, and similar preferences)
-- Optional single best attempt (full Q&A) when “Save my Best” (or equivalent) is on
-- Question banks and on-device / in-browser tip models bundled or cached with the product
-- On the web: the same kinds of data may use browser storage (for example `localStorage`)
+- Settings such as theme, exam options, and tip preferences
+- Your optional “Save my Best” result, if you turn that on
+- Question banks and tip models that come with the app or are cached in the browser
+- On the web, the same kind of data may sit in browser storage (for example `localStorage`)
 
-## Network & third parties
+## Network use and other services
 
-- **Loading the web app:** Visiting the website uses ordinary hosting (pages, scripts, question banks). The host may see standard web logs (IP address, user agent, timestamps) as any website does. We do not use that for advertising profiles.
-- **Optional network AI tips:** Some builds include a recommender URL. When set, Results may send your attempt (score, answers, questions, timing) to that HTTPS endpoint hosted by the developer. If unreachable, tips fall back to on-device or in-browser models. This is not an ad network.
-- **Share / export:** PDF reports, calendar (`.ics`) study schedules, and similar exports stay on your device or go through your OS share sheet / Downloads. We do not receive those files.
-- **Crash reports (optional):** Some production builds may include a crash tool (for example Sentry) when configured — crash diagnostics only, not full exam content unless separately documented later.
+- **Opening the website.** Like any site, the host may see normal request logs (such as IP address, browser type, and time). We do not use those logs to build advertising profiles.
+- **Optional online tips.** Some builds can call a tip service over HTTPS. If that is turned on, Results may send your attempt details (score, answers, questions, timing) to a server we run. If that server is down, tips fall back to models on your device or in the browser. This is not an ad network.
+- **Exports.** PDF reports and calendar files (`.ics`) stay on your device or go through your system share or Downloads folder. We do not receive those files.
+- **Crash reports (optional).** A production build might include a crash tool such as Sentry. That is for crash diagnostics only, not for collecting full exam content, unless we clearly say so in a later update.
 
-## Permissions & platform notes
+## Permissions and platform notes
 
-### Android (mobile)
+### Android
 
-| Permission | Why |
+| Permission | Why we ask |
 |---|---|
-| Storage (API ≤28 only) | Saving PDF exports on older Android; API 29+ uses MediaStore Downloads |
+| Storage (older Android only, API 28 and below) | So you can save PDF exports. Newer Android versions use the system Downloads approach instead. |
 
-The mobile app does **not** request camera, microphone, location, or contacts.
+We do not ask for camera, microphone, location, or contacts.
 
 ### Web
 
-Uses normal browser features (storage, optional screen wake lock during an exam, file download for exports). No account login.
+The site uses normal browser features: local storage, optional screen wake lock while you sit an exam, and file download when you export. There is no login.
 
-### Desktop
+### Desktop (in development)
 
-Stores settings and optional best attempt on the local machine. Network use matches the optional tips / update behaviour of the build you install.
+Settings and optional best attempts stay on your computer. Any network use matches the tip or update behaviour of the build you install.
 
-## Data we collect on our servers
+## What we do not collect as an account service
 
-We do **not** run an ExamPrep account system and do **not** collect, store on our servers, or sell personal data from normal product use. Optional tip endpoints and hosting logs are limited as described above.
+ExamPrep has no account system. We do not collect, store on our servers, or sell personal data from ordinary use. Optional tip calls and ordinary hosting logs work only as described above.
 
 ## Children
 
-The product is for academic exam preparation (including Grade 12 entrance and university exit practice). It does not target children under 13 and does not knowingly collect children’s personal data.
+ExamPrep is for school and university exam practice, including Grade 12 entrance and exit exams. It is not aimed at children under 13, and we do not knowingly collect data from them.
 
-## Contact
+## How to reach us
 
-- Publisher: YomTech · Amanuel M.
+- Publisher: YomTech (Amanuel M.)
 - Email: zeaman48@gmail.com  
 - Phone: +251918724038  
-- Privacy policy (HTTPS): https://zeaman.github.io/exitmock-privacy/
+- This page: https://zeaman.github.io/exitmock-privacy/
 
-## Changes
+## If we change this policy
 
-If this policy changes, we will update this page and the Privacy text shown inside the mobile, web, and desktop ExamPrep apps in a future version.
-
-## GitHub Pages
-
-Served from this repository’s root `index.html` (GitHub Pages → `main`).
+When the policy changes, we will update this page and the privacy text inside the mobile, web, and desktop ExamPrep apps.
