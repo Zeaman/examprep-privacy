@@ -4,7 +4,7 @@ Public privacy policy for **ExamPrep by YomTech** across:
 
 - Android mobile app
 - Web app
-- Desktop app (when published)
+- Desktop app (in development)
 
 **Live URL:**  
 https://zeaman.github.io/exitmock-privacy/

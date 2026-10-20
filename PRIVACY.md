@@ -5,13 +5,13 @@ Version 1.2.1 · Effective date: 2026-10-20
 
 ## Summary
 
-ExamPrep is a free Ethiopian entrance- and exit-exam practice product from YomTech. It is offered as an **Android (mobile) app**, a **web app** in the browser, and a **desktop app** where published. **Exam questions and tip models are designed to run on your device or in your browser tab** — not on a YomTech account server. The product does **not** require an account and does **not** include ads.
+ExamPrep is a free Ethiopian entrance- and exit-exam practice product from YomTech. It is offered as an **Android (mobile) app**, a **web app** in the browser, and a **desktop app (in development)**. **Exam questions and tip models are designed to run on your device or in your browser tab** — not on a YomTech account server. The product does **not** require an account and does **not** include ads.
 
 ## Platforms this policy covers
 
 - **Mobile app (Android APK / store builds)**
 - **Web app** — browser edition hosted by YomTech (for example on Vercel or a custom domain)
-- **Desktop app** — Windows or Linux builds when YomTech ships them for the same product
+- **Desktop app (in development)** — Windows or Linux builds when YomTech ships them for the same product
 
 The same privacy rules apply on every platform unless a section below says otherwise.
 
