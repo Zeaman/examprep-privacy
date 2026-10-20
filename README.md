@@ -1,10 +1,14 @@
-# ExitMOCK privacy policy (GitHub Pages)
+# ExamPrep privacy policy (GitHub Pages)
 
-Public privacy policy for the **ExitMOCK** Android app (`edu.dtu.git.exitmock`).
+Public privacy policy for **ExamPrep by YomTech** across:
 
-**Live URL (GitHub Pages):**  
+- Android mobile app (including legacy **ExitMOCK** naming)
+- Web app
+- Desktop app (when published)
+
+**Live URL:**  
 https://zeaman.github.io/exitmock-privacy/
 
-Paste that HTTPS URL into Google Play Console → App content → Privacy policy.
+Use that HTTPS URL in store listings, the web About / footer, and desktop About screens.
 
-Source: `PRIVACY.md` (same text as the app repo). The site is served from `index.html`.
+Source of truth: `PRIVACY.md` (mirrored in `index.html` for GitHub Pages).
