@@ -62,7 +62,7 @@ ExamPrep is for school and university exam practice, including Grade 12 entrance
 - Publisher: YomTech (Amanuel M.)
 - Email: zeaman48@gmail.com  
 - Phone: +251918724038  
-- This page: https://zeaman.github.io/exitmock-privacy/
+- This page: https://zeaman.github.io/examprep-privacy/
 
 ## If we change this policy
 
