@@ -2,7 +2,7 @@
 
 Public privacy policy for **ExamPrep by YomTech** across:
 
-- Android mobile app (including legacy **ExitMOCK** naming)
+- Android mobile app
 - Web app
 - Desktop app (when published)
 

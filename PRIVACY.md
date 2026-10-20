@@ -1,8 +1,7 @@
 # Privacy Policy — ExamPrep
 
 **ExamPrep by YomTech** (Amanuel M.)  
-Also covers legacy branding as **ExitMOCK** where that name still appears.  
-Version 1.2.0 · Effective date: 2026-10-20
+Version 1.2.1 · Effective date: 2026-10-20
 
 ## Summary
 
@@ -10,7 +9,7 @@ ExamPrep is a free Ethiopian entrance- and exit-exam practice product from YomTe
 
 ## Platforms this policy covers
 
-- **Mobile app (Android APK / store builds)** — including packages formerly published as ExitMOCK
+- **Mobile app (Android APK / store builds)**
 - **Web app** — browser edition hosted by YomTech (for example on Vercel or a custom domain)
 - **Desktop app** — Windows or Linux builds when YomTech ships them for the same product
 
@@ -67,7 +66,7 @@ The product is for academic exam preparation (including Grade 12 entrance and un
 
 ## Changes
 
-If this policy changes, we will update this page and the Privacy text shown inside the mobile, web, and desktop apps in a future version.
+If this policy changes, we will update this page and the Privacy text shown inside the mobile, web, and desktop ExamPrep apps in a future version.
 
 ## GitHub Pages
 
