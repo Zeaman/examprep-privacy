@@ -1,6 +1,6 @@
 # Privacy Policy for ExamPrep
 
-ExamPrep is made by **YomTech** (Amanuel M.).  
+ExamPrep is made by **YomTech Solutions** (Amanuel Mihiret).  
 Last updated: 20 October 2026
 
 ## In short
@@ -59,8 +59,8 @@ ExamPrep is for school and university exam practice, including Grade 12 entrance
 
 ## How to reach us
 
-- Publisher: YomTech (Amanuel M.)
-- Email: zeaman48@gmail.com  
+- Publisher: YomTech Solutions (Amanuel Mihiret)
+- Email: yomtech44@gmail.com  
 - Phone: +251918724038  
 - This page: https://zeaman.github.io/examprep-privacy/
 
